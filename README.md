@@ -1,7 +1,6 @@
 # Proyecto-Wiki-Niverso
 
 ## Integrantes
-
 ### Galindo Evan Alonso Escareño
 ### 24308060610646@cetis61.edu.mx
 
